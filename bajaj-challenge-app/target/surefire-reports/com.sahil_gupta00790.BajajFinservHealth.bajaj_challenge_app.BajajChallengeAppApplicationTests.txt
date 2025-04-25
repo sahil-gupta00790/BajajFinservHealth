@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sahil_gupta00790.BajajFinservHealth.bajaj_challenge_app.BajajChallengeAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.088 s -- in com.sahil_gupta00790.BajajFinservHealth.bajaj_challenge_app.BajajChallengeAppApplicationTests
